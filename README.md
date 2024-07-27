@@ -1,4 +1,4 @@
-<h2 align = "center">Calculator Application<img src="assets/favicon.png" alt="" height="35" width="55"/></h2>
+<h2 align = "center">Calculator Application <img src="assets/favicon.png" alt="" height="35" width="45"/></h2>
 <br>
 
 <h2>Overview:</h2>
