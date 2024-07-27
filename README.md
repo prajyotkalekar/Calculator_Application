@@ -1,31 +1,31 @@
-<h2 align = "center">Calculator Application<img src="images/fevicon.png" alt="" height="35" width="55"/></h2>
+<h2 align = "center">Calculator Application<img src="assets/fevicon.png" alt="" height="35" width="55"/></h2>
 <br>
 
 <h2>Overview:</h2>
 
-This project is a straightforward web-based currency converter focused on three major currencies: Indian Rupee (INR), United States Dollar (USD), and Euro (EUR). It employs HTML for the structure, CSS for styling, and JavaScript for dynamic functionality. The converter fetches live exchange rates for these specific currencies using an API for accurate and up-to-date conversions.
+This project is a sleek and modern web-based calculator designed to perform basic arithmetic operations. The interface is minimalistic, emphasizing usability and a clean design. It uses HTML for structuring the page, CSS for visual styling, and JavaScript for implementing the functional aspects of the calculator. The application allows users to perform operations such as addition, subtraction, multiplication, division, and percentage calculations.
 <br><br>
 
 <h2>Features:</h2>
 
-- Limited Currency Options: The converter is designed to handle conversions between Indian Rupee (INR), United States Dollar (USD), and Euro (EUR).
+- Basic Arithmetic Operations: The calculator supports standard arithmetic functions like addition, subtraction, multiplication, and division.
   
-- User-friendly Interface: The application provides a simple and intuitive user interface for easy currency conversion.
+- Percentage Calculation: Users can perform percentage calculations with ease.
 
-- Live Exchange Rates: Real-time exchange rates for the selected currencies are fetched from a reliable API, ensuring accurate conversions based on the latest market data.
+- Clear and Delete Functions: The AC (All Clear) button resets the calculator, while the DEL (Delete) button allows for the removal of the last entered digit or operation.
 
-- Responsive Design: The application is built to be responsive, offering a consistent user experience across various devices and screen sizes.
+- Responsive Design: The calculator is designed to be fully responsive, ensuring it works seamlessly across different devices and screen sizes.
+
+- User-Friendly Interface: The minimalist design and intuitive layout make the calculator easy to use.
 <br><br>
 
 <h2>Technologies Used:</h2>
 
-- HTML: Provides the basic structure and layout of the web page.
+- HTML: Provides the fundamental structure of the web page, including the layout of the calculator buttons and display screen.
 
-- CSS: Styles the page to enhance visual appeal and user experience.
+- CSS: Styles the calculator to give it a modern, sleek look and ensure it is visually appealing.
 
-- JavaScript: Implements the dynamic functionality of the currency converter, handling user input, and making API calls.
-
-- Exchange Rate API: Utilizes a reliable exchange rate API to fetch live currency conversion rates for INR, USD, and EUR.
+- JavaScript: Powers the functionality of the calculator, handling user inputs and performing the necessary calculations.
 <br><br>
 
 <h2>Demo:</h2>
@@ -34,7 +34,6 @@ This project is a straightforward web-based currency converter focused on three 
 <br><br>
 
 <h2>Screenshots:</h2>
-![Currency_Conv_App](https://github.com/prajyotkalekar/Currency_Converter/assets/141732867/5af58700-e4a2-413c-89d9-e7de848f8ed9)
 <br>
 
 <h4> - Feel free to contribute, report issues, or suggest improvements. Happy coding!🤝💡</h4>
