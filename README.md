@@ -30,7 +30,7 @@ This project is a sleek and modern web-based calculator designed to perform basi
 
 <h2>Demo:</h2>
 
-- Explore the functionality of the currency converter with our <a href="https://prajyotkalekar.github.io/Calculator_Application/" target="_blank">Live Demo</a>. Try different currency conversions and see the results in real-time.
+- Explore the functionality of the calculator with our <a href="https://prajyotkalekar.github.io/Calculator_Application/" target="_blank">Live Demo</a>. Try different calculations and see the results in real-time. Try different currency conversions and see the results in real-time.
 <br><br>
 
 <h2>Screenshots:</h2>
