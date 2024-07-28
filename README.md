@@ -34,6 +34,8 @@ This project is a sleek and modern web-based calculator designed to perform basi
 <br><br>
 
 <h2>Screenshots:</h2>
-<br>
+
+![Calculator_app](https://github.com/user-attachments/assets/6f157768-ee6f-4d9c-9131-5e6579e118cb)
+
 
 <h4> - Feel free to contribute, report issues, or suggest improvements. Happy coding!🤝💡</h4>
